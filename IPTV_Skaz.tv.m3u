@@ -23,4 +23,12 @@ http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MjgwIiwic3RwIjoiMS
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTAwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgxMDAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MTAwIiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiOTYiLCJ0IjoiYzY2ODdkNjc1OTMxZGRhNjIxNzdmNmUyZTgzNDE3MGEiLCJkIjoiMTU0MDYzIiwiciI6IjE1NzIyOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMDAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1  group-title="Uspeh-UA"  tvg-id="iptvxone:upltv"  tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/upltv.png"   CUID="1082" number="401" tvg-name="iptvxone:upltv" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0",УПЛ ТВ UA
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4OTY0Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiMTA4MiIsInQiOiJjNjY4N2Q2NzU5MzFkZGE2MjE3N2Y2ZTJlODM0MTcwYSIsImQiOiIxNTQwNjMiLCJyIjoiMTU3MjI4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg5NjQvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1  group-title="NG" ,Nat Geo WILD HD
+http://95.141.225.78:4022/udp/233.49.170.106:5000
+#EXTINF:-1  group-title="NG" ,Nat Geo Wild
+http://95.141.225.78:4022/udp/233.49.170.47:5000
+#EXTINF:-1  group-title="NG" ,National Geographic Wild
+http://109.248.236.41:4433/udp/238.1.1.25:1234
+#EXTINF:-1  group-title="NG" ,National Geographic HD
+http://95.141.225.78:4022/udp/233.49.170.105:5000
 #EXT-X-ENDLIST
