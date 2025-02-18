@@ -1,0 +1,105 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 ,ТВA-17.02.25 FAS-TV.COM
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+#EXTINF:-1,1+1 
+http://cdn.admuspeh.my/8116/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,1+1 Україна
+http://cdn.admuspeh.my/8482/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,2+2 HD
+http://cdn.admuspeh.my/8117/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,2+2 hd 
+http://cdn.admuspeh.my/8117/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,ICTV 2 HD
+http://cdn.admuspeh.my/8077/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,ICTV 2 
+http://cdn.admuspeh.my/8077/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,СТБ 
+http://cdn.admuspeh.my/8090/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,СТБ hd
+http://cdn.admuspeh.my/8090/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,Новий канал hd
+http://cdn.admuspeh.my/8130/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,Новий канал 
+http://cdn.admuspeh.my/8130/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,НТН HD
+http://cdn.admuspeh.my/8280/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,НТН 
+http://cdn.admuspeh.my/8280/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,ТЕТ HD
+http://cdn.admuspeh.my/8138/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,ТЕТ 
+http://cdn.admuspeh.my/8138/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,Квартал TV
+http://cdn.admuspeh.my/8345/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,FILMUADRAMA HD
+http://cdn.admuspeh.my/8314/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,Дiм tva*in.ua
+http://cdn.admuspeh.my/8211/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,Viju+ Premiere HD
+http://cdn.admuspeh.my/8119/index.m3u8?token=token=Tva25uspehTest0202
+#EXTINF:-1,Viju+ Megahit HD
+http://cdn.admuspeh.my/8109/index.m3u8?token=token=Tva25uspehTest0202
+#EXTINF:-1,Viju+ Comedy
+http://cdn.admuspeh.my/8108/index.m3u8?token=token=Tva25uspehTest0202
+#EXTINF:-1,Viju TV 1000
+http://cdn.admuspeh.my/8048/index.m3u8?token=token=Tva25uspehTest0202
+#EXTINF:-1,Viju TV 1000 Action
+http://cdn.admuspeh.my/8049/index.m3u8?token=token=Tva25uspehTest0202
+#EXTINF:-1,Hollywood HD
+http://cdn.admuspeh.my/8651/index.m3u8?token=Fas-tvIp25tva
+#EXTINF:-1,FX 
+http://cdn.admuspeh.my/8051/index.m3u8?token=tvauspehtest
+#EXTINF:-1,FX HD
+http://cdn.admuspeh.my/8168/index.m3u8?token=iptvshared
+#EXTINF:-1,•sci-fi
+http://cdn.admuspeh.my/8115/index.m3u8?token=tvauspehtest
+#EXTINF:-1,•red
+http://cdn.admuspeh.my/8653/index.m3u8?token=tvauspehtest
+#EXTINF:-1,black
+http://cdn.admuspeh.my/8663/index.m3u8?token=tvauspehtest
+#EXTINF:-1,ТРООФЕЙ
+http://cdn.admuspeh.my/8317/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,Мега
+http://cdn.admuspeh.my/8100/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,8 канал
+http://cdn.admuspeh.my/8334/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1,Еспресо TV
+http://cdn.admuspeh.my/8243/video.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1 group-title="МУЗИКА",М1 [720х576]
+http://cdn.admuspeh.my/8335/mpegts?token=TestuspehTva02
+#EXTINF:-1 group-title="МУЗИКА",М2 [720х576]
+http://cdn.admuspeh.my/8336/mpegts?token=TestuspehTva02
+#EXTINF:-1 group-title="SPORT 🏆" catchup="flussonic" catchup-days="7", Setanta Sports Ukraine HD
+http://cdn.admuspeh.my/8382/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1 group-title="SPORT 🏆" catchup="flussonic" catchup-days="14", Setanta Sports+ UA HD
+http://cdn.admuspeh.my/8329/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1 group-title="SPORT 🏆",Суспільне Спорт HD UA
+http://cdn.admuspeh.my/8828/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1 group-title="SPORT 🏆",Спорт-1 UA
+http://cdn.admuspeh.my/8234/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1 group-title="SPORT 🏆",Спорт-2 UA
+http://cdn.admuspeh.my/8235/index.m3u8?token=Tva25uspehTest0202
+#EXTINF:-1 CUID="122" number="217" tvg-id="epg4:282" tvg-name="epg4:282" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NOVIYTVUA200.png" group-title="Uspeh-UA",Новий канал
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTMwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUxLzgxMzAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTYiLCJhZnAiOiI4MTMwIiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiMTIyIiwidCI6ImM2Njg3ZDY3NTkzMWRkYTYyMTc3ZjZlMmU4MzQxNzBhIiwiZCI6IjE1NDA2MyIsInIiOiIxNTcyMjgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMzAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="88" number="218" tvg-id="epg4:279" tvg-name="epg4:279" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/SBTTUA200.png" group-title="Uspeh-UA",СТБ
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDkwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUxLzgwOTAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTYiLCJhZnAiOiI4MDkwIiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiODgiLCJ0IjoiYzY2ODdkNjc1OTMxZGRhNjIxNzdmNmUyZTgzNDE3MGEiLCJkIjoiMTU0MDYzIiwiciI6IjE1NzIyOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwOTAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="112" number="219" tvg-id="epg4:272" tvg-name="epg4:272" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/1PLUS1TVUAHD200.png" group-title="Uspeh-UA",1+1
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTE2Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUxLzgxMTYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTYiLCJhZnAiOiI4MTE2IiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiMTEyIiwidCI6ImM2Njg3ZDY3NTkzMWRkYTYyMTc3ZjZlMmU4MzQxNzBhIiwiZCI6IjE1NDA2MyIsInIiOiIxNTcyMjgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMTYvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="113" number="220" tvg-id="tvteam_:UA: 2+2 HD" tvg-name="tvteam_:UA: 2+2 HD" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/2PLUS2200.png" group-title="Uspeh-UA",2+2
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTE3Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUxLzgxMTcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTYiLCJhZnAiOiI4MTE3IiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiMTEzIiwidCI6ImM2Njg3ZDY3NTkzMWRkYTYyMTc3ZjZlMmU4MzQxNzBhIiwiZCI6IjE1NDA2MyIsInIiOiIxNTcyMjgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMTcvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="87" number="221" tvg-id="epg4:278" tvg-name="epg4:278" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/INTERUA200.png" group-title="Uspeh-UA",Интер
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDg5Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUxLzgwODkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTYiLCJhZnAiOiI4MDg5IiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiODciLCJ0IjoiYzY2ODdkNjc1OTMxZGRhNjIxNzdmNmUyZTgzNDE3MGEiLCJkIjoiMTU0MDYzIiwiciI6IjE1NzIyOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwODkvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="130" number="222" tvg-id="epg4:280" tvg-name="epg4:280" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/TETTVUA200.png" group-title="Uspeh-UA",TET
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTM4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUxLzgxMzgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTYiLCJhZnAiOiI4MTM4IiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiMTMwIiwidCI6ImM2Njg3ZDY3NTkzMWRkYTYyMTc3ZjZlMmU4MzQxNzBhIiwiZCI6IjE1NDA2MyIsInIiOiIxNTcyMjgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMzgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="89" number="223" tvg-id="epg4:281" tvg-name="epg4:281" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/ICTV.png" group-title="Uspeh-UA",ICTV
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDkyIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUxLzgwOTIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTYiLCJhZnAiOiI4MDkyIiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiODkiLCJ0IjoiYzY2ODdkNjc1OTMxZGRhNjIxNzdmNmUyZTgzNDE3MGEiLCJkIjoiMTU0MDYzIiwiciI6IjE1NzIyOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwOTIvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="75" number="224" tvg-id="tvteam_:UA: ICTV 2 HD" tvg-name="tvteam_:UA: ICTV 2 HD" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/1225-ictv-2-hd.png" group-title="Uspeh-UA",ICTV 2
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDc3Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUzLzgwNzcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjUiLCJhZnAiOiI4MDc3IiwiYXRzIjoiMTY4IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiNzUiLCJ0IjoiYzY2ODdkNjc1OTMxZGRhNjIxNzdmNmUyZTgzNDE3MGEiLCJkIjoiMTU0MDYzIiwiciI6IjE1NzIyOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwNzcvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="271" number="21" tvg-id="epg4:102" tvg-name="epg4:102" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/KVARTALTV200.png" group-title="Uspeh-UA",Квартал ТВ
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MzQ1Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUzLzgzNDUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzciLCJhZnAiOiI4MzQ1IiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiMjcxIiwidCI6ImM2Njg3ZDY3NTkzMWRkYTYyMTc3ZjZlMmU4MzQxNzBhIiwiZCI6IjE1NDA2MyIsInIiOiIxNTcyMjgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgzNDUvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="398" number="214" tvg-id="tvteam_:UA: НТН" tvg-name="tvteam_:UA: НТН" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/NTNUA200.png" group-title="Uspeh-UA",НТН UA
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MjgwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUzLzgyODAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzciLCJhZnAiOiI4MjgwIiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiMzk4IiwidCI6ImM2Njg3ZDY3NTkzMWRkYTYyMTc3ZjZlMmU4MzQxNzBhIiwiZCI6IjE1NDA2MyIsInIiOiIxNTcyMjgiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyODAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="96" number="229" tvg-id="iptvxone:mega-ua" tvg-name="iptvxone:mega-ua" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/MEGAUA200.png" group-title="Uspeh-UA",Мега
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTAwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgxMDAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MTAwIiwiYXRzIjoiMzM2IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiOTYiLCJ0IjoiYzY2ODdkNjc1OTMxZGRhNjIxNzdmNmUyZTgzNDE3MGEiLCJkIjoiMTU0MDYzIiwiciI6IjE1NzIyOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMDAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="1082" number="401" tvg-id="iptvxone:upltv" tvg-name="iptvxone:upltv" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/upltv.png" group-title="Uspeh-UA",УПЛ ТВ UA
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4OTY0Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6ImE4NWYwZWZlIiwicCI6ImE4NWYwZWZlNzhmY2QyMWEiLCJjIjoiMTA4MiIsInQiOiJjNjY4N2Q2NzU5MzFkZGE2MjE3N2Y2ZTJlODM0MTcwYSIsImQiOiIxNTQwNjMiLCJyIjoiMTU3MjI4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg5NjQvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
